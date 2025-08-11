@@ -37,7 +37,7 @@ Add the JAR file to the project’s build path:
 In VS Code, right-click the JAR → Add to Project.
 
 Compile and run: 
-
+```bash
 javac -cp "lib/gson-2.10.1.jar" src/CurrencyConverter.java
 java -cp "lib/gson-2.10.1.jar;src" CurrencyConverter
 
