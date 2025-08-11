@@ -26,4 +26,14 @@ It is a simple **Currency Converter** that converts any amount from one currency
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/CODSOFT.git
+   git clone https://github.com/YOUR-USERNAME/CODSOFT.git 
+
+Open the project in VS Code or any Java IDE.
+
+Download the gson-2.10.1.jar file and place it inside the lib folder.
+
+Add the JAR file to the project’s build path:
+
+In VS Code, right-click the JAR → Add to Project.
+
+Compile and run:
