@@ -27,7 +27,7 @@ It is a simple **ATM Interface** program that simulates basic banking operations
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/faizalshx/CODSOFT.git
+   git clone https://github.com/faizalshx/CODSOFT
 Open the project in VS Code or any Java IDE.
 
 Compile the program:
