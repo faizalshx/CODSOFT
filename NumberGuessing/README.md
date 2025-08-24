@@ -35,7 +35,7 @@ Loop & Conditional Logic → Game rules
 
 Clone this repository:
 
-git clone https://github.com/YOUR-USERNAME/CODSOFT.git
+git clone https://github.com/faizalshx/CODSOFT
 
 
 Open the project in VS Code or any Java IDE.
